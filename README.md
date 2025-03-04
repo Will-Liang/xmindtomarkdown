@@ -1,0 +1,3 @@
+
+# xmindtomarkdown
+使用方法：根据提示输入xmind文件路径，输出的markdown文件和xmind文件在同一目录下
